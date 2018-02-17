@@ -30,7 +30,7 @@ switch(command){
     if(x){
       spotifySong(x);
     } else{
-      spotifySong("Fluorescent Adolescent");
+      spotifySong("The Sign");
     }
   break;
 
